@@ -1,0 +1,23 @@
+project:
+  type: website
+
+website:
+  title: "Quantifying Virus Transmission Risk and Hygiene Intervention Effectiveness in Shared Office Environments"
+  navbar:
+    right:
+      - icon: github
+        href: "https://github.com/esrac-research/office-hygiene-qmra"
+
+
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    toc: true
+    code-overflow: wrap
+
+
+execute:
+  freeze: auto

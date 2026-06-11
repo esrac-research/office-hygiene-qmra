@@ -1,0 +1,11 @@
+## **Quantifying Virus Transmission Risk and Hygiene Intervention Effectiveness in Shared Office Environments**
+
+Authors: Royani Saha(a), Jonathan D. Sexton(a), Ashton Norman(a), Yang Zhan(a), Amanda M. Wilson(a), Sophie E. Upson(b), Shweta Malik(b), Carolyn Buckley(b), Lisa M. Ackerley(b), Stephanie Cooper(b), Lucas Gent(b), and Kelly A. Reynolds(a)
+
+(a) Department of Community, Environment & Policy, 1295 N. Martin Avenue, Mel and Enid Zuckerman College of Public Health, University of Arizona, Tucson, AZ, 85724 USA
+
+(b) Reckitt Science and Innovation Center, Dansom Lane, Hull, East Riding of Yorkshire, HU8 7DS, United Kingdom
+
+**GitHub Repository:** <https://github.com/esrac-research/office-hygiene-qmra>
+
+**Supplementary Website:** <https://esrac-research.github.io/office-hygiene-qmra/>
